@@ -3,7 +3,7 @@
 This project demonstrates how to create an image with the click of a button and manipulate them across the browser window, each image having their own velocity.
 
 ## How to Run:
-Download the index.html file and open it within a browser. On the top left, there will be two buttons. Clicking Add PacMan will add a pacman to the browser window. Clicking Start Game will set the Pacmen free and the Pacmen will move around the window each at their own pace. Clicking Add PacMan while the game is running will insert another Pacman already in motion.
+Download the files making sure they are in the same folder, they have the same file names and open index.html within a browser. On the top left, there will be two buttons. Clicking Add PacMan will add a pacman to the browser window. Clicking Start Game will set the Pacmen free and the Pacmen will move around the window each at their own pace. Clicking Add PacMan while the game is running will insert another Pacman already in motion.
 
 ## Roadmap of future improvements:
 I would want the Pacmen to change the direction they are facing when hitting either the left or right wall. Another improvement would be to not let the pacmen go over the buttons since they potentially block use of them. 
